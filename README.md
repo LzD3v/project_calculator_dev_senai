@@ -6,7 +6,7 @@
  -CSS3
  -HTML5
  ---
- ####IDE usado
+ #### IDE usado
  - VS Code
  ---
  #### Descrição da função de cálculo
