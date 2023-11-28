@@ -1,3 +1,7 @@
+<h1>Hi! i am Luiz! 👋 </h1>
+
+<h6>Don't speak Portuguese? <a href="https://github.com/LzD3v/project_calculator_dev_senai/blob/main/README-en.md">Click here</a> to see this page in English.</h6>
+
 ## Projeto inicial do curso de Desenvolvimento de Sistemas
 ### Calculadora
 
