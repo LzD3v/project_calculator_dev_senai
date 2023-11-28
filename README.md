@@ -6,9 +6,9 @@
 ### Calculadora
 
 #### Linguagens usadas
- -JavaScript
- -CSS3
- -HTML5
+ - JavaScript
+ - CSS3
+ - HTML5
  ---
  #### IDE usado
  - VS Code
