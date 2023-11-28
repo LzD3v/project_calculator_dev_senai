@@ -1,0 +1,85 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="text"] {
+    width: 100%;
+    max-width: 300px;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: right;
+    outline: none;
+    font-size: 1.2em; 
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 50%;
+    background-color: #4caf50;
+    color: white;
+    font-size: 1.2em; 
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.scientific-functions {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.calculator.scientific .scientific-functions {
+    display: flex;
+}
+
+button:active {
+    box-shadow: 0 0 10px rgb(79, 228, 10);
+}
+
+.scientific-functions {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+
+.calculator.scientific .scientific-functions {
+    display: flex;
+}
+
+
+.toggle-scientific {
+    background-color: #2196f3;
+    margin-top: 10px;
+}
+
+.toggle-scientific:hover {
+    background-color: #0b7dda; 
+}
+
+section {
+    margin-bottom: 10px;
+}
