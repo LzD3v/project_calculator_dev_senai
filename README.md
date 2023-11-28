@@ -1,13 +1,13 @@
 ## Projeto inicial do curso de Desenvolvimento de Sistemas
 ### Calculadora
 
-#### Idiomas usados
+#### Linguagens usadas
  -JavaScript
  -CSS3
  -HTML5
  ---
  ####IDE usado
- - Código VS
+ - VS Code
  ---
  #### Descrição da função de cálculo
 Para realizar os cálculos matemáticos foi utilizada a função “eval”.
